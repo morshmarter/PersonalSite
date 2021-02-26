@@ -1,0 +1,28 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #333333;
+}
+
+#glowHeader {
+    font-size: 5em;
+    color: #ff6699;
+    text-shadow: 0rem 0rem 1rem #cc3366;
+}
+
+a { 
+    color: #cc3366;
+    text-decoration: none;
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+#links div {
+    display: inline-block;
+    margin: 0rem 1rem;
+
+    font-size: 1.2rem;
+    text-align: center;
+}
